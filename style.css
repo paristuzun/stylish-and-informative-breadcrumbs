@@ -1,0 +1,9 @@
+.fa, .fas {
+    font-family: 'Font Awesome';
+    font-weight: 900;
+}
+
+.breadcrumbs {
+    margin: 2rem auto 2rem;
+    background: #fafafa;
+}
